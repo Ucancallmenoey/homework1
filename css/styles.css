@@ -157,3 +157,6 @@ h2{
         opacity: 1;
     }
 }
+.ad{
+    max-width: 0;
+}
