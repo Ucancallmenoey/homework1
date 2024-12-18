@@ -6,12 +6,12 @@
 body {
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #f0d5d5;
+    color: #1f1e1e;
 }
 .main-header {
     background-color: #ca2e2e;
-    color: #fff;
+    color: #1f1e1e;
     padding: 20px 0;
     text-align: center;
 }
@@ -28,7 +28,7 @@ body {
 }
 
 .main-header .nav-list a {
-    color: #fff;
+    color: #1f1e1e;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s;
@@ -89,7 +89,7 @@ h2{
 .card-content h3 {
     font-size: 1.2rem;
     margin-bottom: 10px;
-    color: #006699;
+    color: #1f1e1e;
 }
 .modal {
     display: none;
@@ -140,7 +140,7 @@ h2{
 }
 
 .main-footer {
-    background-color: #995700;
+    background-color: #ca2e2e;
     color: #fff;
     text-align: center;
     padding: 15px 0;
